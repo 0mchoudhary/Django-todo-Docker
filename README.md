@@ -18,7 +18,7 @@ Update the instance
 
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-$ git clone https://github.com/0mchoudhary/Django_todo_Docker.git
+git clone https://github.com/0mchoudhary/Django_todo_Docker.git
 ```
 
 Change the permission of directory
